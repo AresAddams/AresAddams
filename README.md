@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arifuli57460595" target="blank"><img src="https://img.shields.io/twitter/follow/arifuli57460595?logo=twitter&style=for-the-badge" alt="arifuli57460595" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ares1421?tab=repositories](https://github.com/Ares1421?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/AresAddams?tab=repositories](https://github.com/Ares1421?tab=repositories)
 
 - 📫 How to reach me **arifinhussain001@gmail.com**
 
@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aresaddams&show_icons=true&locale=en" alt="aresaddams" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ares1421&" alt="ares1421" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aresaddams&" alt="aresaddams" /></p>
 
 
 <!---
